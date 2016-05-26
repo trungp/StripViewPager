@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod "StripViewPager"
 ```
 
-## Author
-
-trungp2007@gmail.com
-
 ## License
 
 StripViewPager is available under the MIT license. See the LICENSE file for more info.
