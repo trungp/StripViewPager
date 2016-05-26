@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'StripViewPager_Example' do
+    pod 'StripViewPager', :path => '../'
+end

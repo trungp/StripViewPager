@@ -1,0 +1,6 @@
+framework module StripViewPager {
+  umbrella header "StripViewPager-umbrella.h"
+
+  export *
+  module * { export * }
+}

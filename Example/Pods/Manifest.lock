@@ -1,0 +1,16 @@
+PODS:
+  - StripViewPager (0.1.0)
+
+DEPENDENCIES:
+  - StripViewPager (from `../`)
+
+EXTERNAL SOURCES:
+  StripViewPager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  StripViewPager: a385edf7266a6c4d92cdde30f64f012d1ad8096a
+
+PODFILE CHECKSUM: d821eb0aa5926a98ee1e287a4a332cde06d9564f
+
+COCOAPODS: 1.0.0
