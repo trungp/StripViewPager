@@ -22,7 +22,7 @@ pod "StripViewPager"
 
 ## Author
 
-TrungP1, trungp2007@gmail.com
+trungp2007@gmail.com
 
 ## License
 
